@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jaeger/querylist": "^4.0",
+        "rmccue/requests": "^1.7"
+    }
+}
